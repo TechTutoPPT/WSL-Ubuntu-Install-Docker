@@ -1,6 +1,6 @@
 # WSL-Ubuntu-Install-Docker
 
-[![](https://github.com/TechTutoPPT/WSL-Ubuntu-Install-Docker/blob/main/cover.PNG)](https://youtu.be/w7np3zNHNAA)
+[![](https://github.com/TechTutoPPT/WSL-Ubuntu-Install-Docker/blob/main/cover.PNG)](https://youtu.be/RNIej1BsjoU)
 
 承接上一影片, 即然已安裝了WSL Ubuntu, 那直接於Ubuntu內安裝Docker是否可行呢? 
 尤其很多人都遇過安裝Windows版的Docker Desktop後很難卸除, 另外直接於Ubuntu內安裝Docker可有更多的Panel工具去管理容器, 
